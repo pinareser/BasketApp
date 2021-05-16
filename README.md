@@ -1,7 +1,8 @@
 # BasketApp
  A basket API application developed with .NET 5.0
  
-* When you run the project, a database will be created and data will be inserted. The server name is given as "localhost" in connectionString in the appsettings.json file. If your SQL Server version does not support this local server name, replace it with your local server name.
+* When you run the project, a database will be created and data will be inserted. The server name is given as **"localhost"** in connectionString in the appsettings.json file. If your SQL Server version does not support this local server name, replace it with your local server name.
+* When you run the project, a database named **"BasketAppDb"** will be created on your local server. If there is a database with this name, give a different name than the appsettengs.json file.
 * You can access the Postman document link via the following url.
   * https://documenter.getpostman.com/view/5753366/TzRX7kEe
 * You can also access the Postman collection via the document, and you can also access it via the collection url below.

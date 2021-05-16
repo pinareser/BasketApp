@@ -1,5 +1,5 @@
 # BasketApp
- A basket API application developed with .Net Core
+ A basket API application developed with .NET 5.0
  
 * When you run the project, a database will be created and data will be inserted. The server name is given as "localhost" in connectionString in the appsettings.json file. If your SQL Server version does not support this local server name, replace it with your local server name.
 * You can access the Postman document link via the following url.
@@ -20,9 +20,9 @@
 
 ## Technologies and approaches used
 
-* .Net Core
+* .NET Core
 * Entity Framework Core
-* DAPPER
+* Dapper
 * Code First
 * MSSQL
 * Dependency Injection

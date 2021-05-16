@@ -1,0 +1,3 @@
+DROP DATABASE [BasketAppDb]
+GO
+
